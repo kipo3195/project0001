@@ -11,6 +11,7 @@ import lombok.ToString;
 @ToString
 public class BoardVO {
 	//주석 추가
+	//또추가
 	private int bNum;
 	private String bTitle;
 	private String bAuth;
