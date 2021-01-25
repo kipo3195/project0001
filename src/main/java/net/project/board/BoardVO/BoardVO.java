@@ -10,7 +10,7 @@ import lombok.ToString;
 @Setter
 @ToString
 public class BoardVO {
-
+	//주석 추가
 	private int bNum;
 	private String bTitle;
 	private String bAuth;
